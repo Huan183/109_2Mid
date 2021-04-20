@@ -10,5 +10,10 @@ namespace _109_2Mid {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected System.Void DropDownList1_SelectedIndexChanged(System.Object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
