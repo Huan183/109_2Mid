@@ -33,22 +33,22 @@ namespace _109_2Mid
         protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
-        /// DropDownList1 控制項。
+        /// dd1_Area 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.DropDownList dd1_Area;
 
         /// <summary>
-        /// DropDownList2 控制項。
+        /// dd1_Place 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList2;
+        protected global::System.Web.UI.WebControls.DropDownList dd1_Place;
 
         /// <summary>
         /// Label2 控制項。
@@ -60,13 +60,13 @@ namespace _109_2Mid
         protected global::System.Web.UI.WebControls.Label Label2;
 
         /// <summary>
-        /// TextBox1 控制項。
+        /// tb_Name 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox tb_Name;
 
         /// <summary>
         /// Label3 控制項。
@@ -78,39 +78,39 @@ namespace _109_2Mid
         protected global::System.Web.UI.WebControls.Label Label3;
 
         /// <summary>
-        /// RadioButtonList1 控制項。
+        /// rb1_Res 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList RadioButtonList1;
+        protected global::System.Web.UI.WebControls.RadioButtonList rb1_Res;
 
         /// <summary>
-        /// TextBox2 控制項。
+        /// tb_Des 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox tb_Des;
 
         /// <summary>
-        /// Button1 控制項。
+        /// btn_Sub 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button btn_Sub;
 
         /// <summary>
-        /// Label4 控制項。
+        /// Ib_Msg 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label4;
+        protected global::System.Web.UI.WebControls.Label Ib_Msg;
     }
 }
