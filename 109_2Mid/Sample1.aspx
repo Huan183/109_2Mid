@@ -19,13 +19,15 @@
         <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
         <br />
         <asp:Label ID="Label3" runat="server" Text="興趣(單選)"></asp:Label>
-        <asp:RadioButton ID="看書" runat="server" />
-        <asp:RadioButton ID="打電動" runat="server" />
-        <asp:RadioButton ID="其他" runat="server" />
+        <asp:RadioButtonList ID="RadioButtonList1" runat="server" Height="16px" Width="171px">
+            <asp:ListItem>看書</asp:ListItem>
+            <asp:ListItem>打電動</asp:ListItem>
+            <asp:ListItem>其他</asp:ListItem>
+        </asp:RadioButtonList>
         <br />
         <asp:Label ID="Label4" runat="server" Text="其他連結"></asp:Label>
         <br />
-        <asp:Button ID="Button1" runat="server" Text="送出" />
+        <asp:Button ID="Button1" runat="server" Text="送出" OnClick="Button1_Click" />
     </form>
 </body>
 </html>
